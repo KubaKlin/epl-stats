@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { BalldontlieAPI } from '@balldontlie/sdk';
 
 const api = new BalldontlieAPI({
-  apiKey: 'a254bb1e-4c91-4f14-9176-cd22cac6ac39',
+  apiKey: '',
 });
 
 export function Teams() {
